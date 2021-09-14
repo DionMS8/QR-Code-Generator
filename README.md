@@ -15,7 +15,7 @@ This is a simple QR Code generator using the qrcode.js library.
 - HTML5
 - CSS3
 - JavaScript ES6
-- qrcode.js
+- QRCode.js
 
 ## Screenshots 
 
