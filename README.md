@@ -1,4 +1,4 @@
-# QR-Code-Generator 🔲
+# 🔲 QR-Code-Generator 🔲
 
 ## Table of contents
 * [General info](#general-info)
